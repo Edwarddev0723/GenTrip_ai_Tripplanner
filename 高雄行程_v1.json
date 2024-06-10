@@ -1,0 +1,105 @@
+{
+    "days": [
+        {
+            "day": 1,
+            "activities": [
+                {
+                    "title": "\u9ad8\u96c4\u79d1\u5b78\u5de5\u85dd\u535a\u7269\u9928",
+                    "description": "\u9069\u5408\u5152\u7ae5\u7684\u79d1\u5b78\u5c55\u793a\u548c\u4e92\u52d5\u8a2d\u65bd",
+                    "link": "https://ksmm.kcg.gov.tw/",
+                    "start_time": "10:00 AM",
+                    "end_time": "12:00 PM",
+                    "location": "https://maps.google.com/?q=\u9ad8\u96c4\u5e02\u4e09\u6c11\u5340\u4e5d\u5982\u4e00\u8def720\u865f",
+                    "charge": "0"
+                },
+                {
+                    "title": "\u516d\u5408\u591c\u5e02",
+                    "description": "\u4eab\u53d7\u9ad8\u96c4\u8457\u540d\u7684\u5c0f\u5403\u548c\u8cfc\u7269",
+                    "link": "https://khh.travel/Article.aspx?a=6274&l=1",
+                    "start_time": "02:00 PM",
+                    "end_time": "04:00 PM",
+                    "location": "https://maps.google.com/?q=\u9ad8\u96c4\u5e02\u65b0\u8208\u5340\u516d\u5408\u4e8c\u8def",
+                    "charge": "0"
+                },
+                {
+                    "title": "\u99c1\u4e8c\u85dd\u8853\u7279\u5340",
+                    "description": "\u6b23\u8cde\u85dd\u8853\u5c55\u89bd\u548c\u5275\u610f\u5e02\u96c6\uff0c\u9069\u5408\u5bb6\u5ead\u7684\u6236\u5916\u6d3b\u52d5",
+                    "link": "https://pier-2.khcc.gov.tw/home02.aspx?ID=$1001&IDK=2&EXEC=L",
+                    "start_time": "04:30 PM",
+                    "end_time": "06:30 PM",
+                    "location": "https://maps.google.com/?q=\u9ad8\u96c4\u5e02\u9e7d\u57d5\u5340\u5927\u52c7\u8def1\u865f",
+                    "charge": "0"
+                },
+                {
+                    "title": "\u54c1\u5473\u548c\u725b\u71d2\u8089",
+                    "description": "\u4eab\u53d7\u7f8e\u5473\u7684\u71d2\u8089\u665a\u9910",
+                    "link": "https://www.tasty.com.tw/",
+                    "start_time": "06:30 PM",
+                    "end_time": "08:00 PM",
+                    "location": "https://maps.google.com/?q=\u9ad8\u96c4\u5e02\u82d3\u96c5\u5340\u4e09\u591a\u4e09\u8def213\u865f",
+                    "charge": "NT$800"
+                },
+                {
+                    "title": "\u597d\u5730\u65b9\u65c5\u5c45\u6587\u65c5",
+                    "description": "\u8212\u9069\u7684\u4f4f\u5bbf\uff0c\u9760\u8fd1\u4e09\u591a\u5546\u5708",
+                    "link": "https://www.hubhotel.com.tw/kaohsiung/",
+                    "start_time": "08:00 PM",
+                    "end_time": "12:00 PM",
+                    "location": "https://maps.google.com/?q=\u9ad8\u96c4\u5e02\u82d3\u96c5\u5340\u4e09\u591a\u56db\u8def63\u865f11\u6a13\u4e4b1",
+                    "charge": "NT$5000"
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "activities": [
+                {
+                    "title": "\u9ad8\u96c4\u5e02\u7acb\u7f8e\u8853\u9928",
+                    "description": "\u9069\u5408\u5152\u7ae5\u7684\u85dd\u8853\u5c55\u89bd\u548c\u6236\u5916\u96d5\u5851\u516c\u5712",
+                    "link": "https://www.kmfa.gov.tw/",
+                    "start_time": "10:00 AM",
+                    "end_time": "12:00 PM",
+                    "location": "https://maps.google.com/?q=\u9ad8\u96c4\u5e02\u9f13\u5c71\u5340\u7f8e\u8853\u9928\u8def80\u865f",
+                    "charge": "0"
+                },
+                {
+                    "title": "\u745e\u8c50\u591c\u5e02",
+                    "description": "\u4eab\u53d7\u591a\u6a23\u7684\u5c0f\u5403\u548c\u8cfc\u7269\u9078\u64c7",
+                    "link": "https://khh.travel/Article.aspx?a=6272&l=1",
+                    "start_time": "01:00 PM",
+                    "end_time": "03:00 PM",
+                    "location": "https://maps.google.com/?q=\u9ad8\u96c4\u5e02\u5de6\u71df\u5340\u88d5\u8aa0\u8def",
+                    "charge": "0"
+                },
+                {
+                    "title": "\u65d7\u6d25\u98a8\u666f\u5340",
+                    "description": "\u63a2\u7d22\u65d7\u6d25\u7684\u81ea\u7136\u7f8e\u666f\u548c\u6d77\u7058\uff0c\u9069\u5408\u5bb6\u5ead\u7684\u6236\u5916\u6d3b\u52d5",
+                    "link": "https://www.cijin.com.tw/",
+                    "start_time": "03:30 PM",
+                    "end_time": "06:30 PM",
+                    "location": "https://maps.google.com/?q=\u9ad8\u96c4\u5e02\u65d7\u6d25\u5340",
+                    "charge": "0"
+                },
+                {
+                    "title": "\u6f22\u4f86\u6d77\u6e2f\u9910\u5ef3",
+                    "description": "\u4eab\u53d7\u8c50\u5bcc\u7684\u81ea\u52a9\u665a\u9910",
+                    "link": "https://www.hanlai-food.com.tw/",
+                    "start_time": "06:30 PM",
+                    "end_time": "08:00 PM",
+                    "location": "https://maps.google.com/?q=\u9ad8\u96c4\u5e02\u524d\u91d1\u5340\u4e94\u798f\u4e09\u8def111\u865f",
+                    "charge": "NT$1200"
+                },
+                {
+                    "title": "\u9ad8\u96c4\u5713\u5c71\u5927\u98ef\u5e97",
+                    "description": "\u8c6a\u83ef\u7684\u4f4f\u5bbf\u9078\u64c7\uff0c\u9760\u8fd1\u84ee\u6c60\u6f6d\u98a8\u666f\u5340",
+                    "link": "https://www.grand-hotel.org/",
+                    "start_time": "08:00 PM",
+                    "end_time": "12:00 PM",
+                    "location": "https://maps.google.com/?q=\u9ad8\u96c4\u5e02\u5de6\u71df\u5340\u84ee\u6f6d\u8def1\u865f",
+                    "charge": "NT$6000"
+                }
+            ]
+        }
+    ],
+    "id": "\u9ad8\u96c4\u884c\u7a0b_v1"
+}
