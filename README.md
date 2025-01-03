@@ -1,4 +1,24 @@
-# GenTrip_ai_Tripplanner
- 
-本組發現在規劃旅遊行程方面，人們常常需要花大量時間做功課。加上疫後旅遊業復甦，顧客服務需求增加，傳統客服模式已無法應付大量詢問及查詢。因此，即時且高效率的旅遊服務將成為趨勢。根據聯合新聞網報導，近六成的旅人願意信任AI為他們安排行程，這引發了我們開發GenTrip的契機。 本組通過大量的競品分析及相關論文研究，最終決定使用公開資料平台的觀光資訊資料庫。我們利用LLM優化資料，形成GenTrip資料庫。使用者填入需求後，系統會通過Pandas AI篩選景點，然後將結果輸入向量資料庫。接著，GenTrip模型（以GPT-4o為基礎）運用RAG技術和Prompt Engineering生成行程。 最終根據實驗結果顯示，GenTrip不僅能夠提供在地化且詳細的行程推薦，還能很好地滿足使用者的需求。
+# GenTrip: AI-Powered Travel Itinerary Planner
 
+GenTrip is an AI-powered travel planning tool designed to simplify and enhance your travel experience. By combining user preferences, budgets, and travel dates, GenTrip generates personalized, dynamic itineraries that include recommended activities, restaurants, accommodations, and even travel insurance options.
+
+---
+
+## Features
+
+### 🌍 **AI Travel Planning**
+Plan your trip effortlessly with:
+- Tailored itineraries based on preferences and budgets.
+- Specific suggestions for activities, restaurants, and accommodations.
+
+### 💼 **Travel Insurance Calculator**
+- Dynamically calculate travel insurance premiums.
+- Choose from domestic or international coverage options.
+
+### 📒 **Budget Management**
+- Track your travel expenses with AI receipt recognition.
+- Visualize expenses through interactive charts.
+
+### ✈️ **Trip Editing**
+- Review and edit itineraries.
+- Export your plans to CSV for offline use.
