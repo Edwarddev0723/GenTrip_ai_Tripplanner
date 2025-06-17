@@ -22,3 +22,7 @@ Plan your trip effortlessly with:
 ### ✈️ **Trip Editing**
 - Review and edit itineraries.
 - Export your plans to CSV for offline use.
+
+### Static HTML Main Page
+A simplified HTML/CSS version of the main page is available under `web/index.html`.
+Open this file directly in a browser to preview the landing page without running Streamlit.
