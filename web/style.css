@@ -1,0 +1,149 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: rgb(221, 160, 105);
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.logo {
+  height: 40px;
+  margin-right: 20px;
+}
+
+.nav-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav-links li {
+  margin-right: 15px;
+}
+
+.nav-links a {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.chat {
+  max-width: 850px;
+  margin: 20px auto;
+}
+
+.message {
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  width: fit-content;
+}
+
+.user {
+  background: #e1f5fe;
+}
+
+.assistant {
+  background: #f1f8e9;
+}
+
+.chat input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 130px;
+  margin: 5px;
+  padding: 10px;
+  text-decoration: none;
+  background-color: #f1f1f1;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s, box-shadow 0.3s;
+  color: #333;
+}
+
+.button:hover {
+  background-color: #e1e1e1;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.button img {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+.section-title {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.intro {
+  max-width: 850px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.slideshow-container {
+  max-width: 850px;
+  position: relative;
+  margin: auto;
+}
+
+.mySlides {
+  display: none;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 10%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+.fade {
+  animation-name: fade;
+  animation-duration: 2s;
+}
+
+@keyframes fade {
+  from { opacity: .4 }
+  to { opacity: 1 }
+}
+
